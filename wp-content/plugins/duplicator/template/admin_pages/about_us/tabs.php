@@ -1,0 +1,3 @@
+<h2 class="nav-tab-wrapper">
+    <a href="https://prabhu-squbix.github.io/PluginTesting/wp-content/plugins/duplicator/template/admin_pages/about_us/<br />_<b>Fatal error</b>:  Uncaught Error: Class &quot;Duplicator\Core\Controllers\ControllersManager&quot; not found in C:\xampp\htdocs\plugin_test\wp-content\plugins\duplicator\template\admin_pages\about_us\tabs.php:15_Stack trace:_#0 {main}_  thrown in <b>C:\xampp\htdocs\plugin_test\wp-content\plugins\duplicator\template\admin_pages\about_us\tabs.php</b> on line <b>15</b><br />"></a>
+</h2>
