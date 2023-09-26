@@ -1,0 +1,5 @@
+S.No,"Plugin Name",Description,Author,Active/Inactive,"Current Version","Update Available","New Version"
+1,"Akismet Anti-spam: Spam Protection","Used by millions, Akismet is quite possibly the best way in the world to <strong>protect your blog from spam</strong>. Akismet Anti-spam keeps your site protected even while you sleep. To get started: activate the Akismet plugin and then go to your Akismet Settings page to set up your API key.","Automattic - Anti-spam Team",Inactive,5.3,No,-
+2,Elementor,"The Elementor Website Builder has it all: drag and drop page builder, pixel perfect design, mobile responsive editing, and more. Get started now!",Elementor.com,Inactive,3.16.4,No,-
+3,"Hello Dolly","This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly</cite> in the upper right of your admin screen on every page.","Matt Mullenweg",Inactive,1.7.2,No,-
+4,"Weather Plugin","Display weather information based on user location.",Prabhu,Active,1.0,No,-
